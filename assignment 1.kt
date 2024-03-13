@@ -1,13 +1,15 @@
-fun main(){
-    var number = 0
-    
-    if (number >= 0 ){
+fun main() {
+    var number = 8
+
+    if (number >= 0) {
         println("Positive")
-    }
-    else{
+    } else {
         println("Negative")
     }
 
-
-
 }
+
+
+
+
+
